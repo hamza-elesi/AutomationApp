@@ -1,0 +1,6 @@
+# These dependencies are required for your application.
+# Note: `time` and `logging` are part of Python's standard library.
+
+psutil
+pyautogui
+tkinter
